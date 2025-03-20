@@ -23,4 +23,5 @@ SplitPay is a Flutter app that allows you to easily split an invoice among a gro
 
 This project is open-source and available under the MIT License.
 
----
+---![image](https://github.com/user-attachments/assets/ea72a855-468a-4f9a-a285-75af608790c6)
+
